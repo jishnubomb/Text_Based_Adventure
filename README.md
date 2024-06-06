@@ -1,3 +1,5 @@
+### ⚠️ Note: Game is currently in pre-alpha
+
 **Text-Based Dungeon Adventure Game**
 
 This Python code implements a text-based dungeon adventure game where players navigate through different rooms, interact with objects and NPCs, and engage in combat with enemies. Here's an overview of the game's features and how to play:
